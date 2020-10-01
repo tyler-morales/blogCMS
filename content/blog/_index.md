@@ -1,5 +1,5 @@
 ---
-title: My new blog post
+title: My Blog 👨🏽‍💻
 date: 2017-03-03
 draft: true
 description: This is my description

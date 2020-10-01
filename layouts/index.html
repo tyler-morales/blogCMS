@@ -12,7 +12,7 @@
 <body>
   <h1>Nice. It's looking good already.</h1>
 
-  <ul>
+  <nav>
     {{ range (where .Pages "Section" "blog") }}
     <li>
       <a href="{{ .RelPermalink }}">

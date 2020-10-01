@@ -1,0 +1,10 @@
+<ul>
+  i am a blog section
+  {{ range (where .Pages "Section" "blog") }}
+  <li>
+    <a href="{{ .RelPermalink }}">
+      {{ .Title }}
+    </a>
+  </li>
+  {{ end }}
+</ul>

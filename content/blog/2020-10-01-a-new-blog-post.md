@@ -1,6 +1,8 @@
 ---
-title: A new blog post
-date: 2020-10-01T18:28:02.584Z
-description: Is this working
+title: post from cms
+date: 2020-09-14
+draft: true
+description: This is my description
 ---
-Cool, this is body section!!!
+
+date format: yyyy-mm-dd
